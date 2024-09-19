@@ -1,1 +1,1 @@
-print("Hi, welcome to COMP290!")
+print("Hi, welcome to COMP290! This is the default text on the main branch.")
